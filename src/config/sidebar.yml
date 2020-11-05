@@ -4,6 +4,8 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+- label: 'Hello World'
+  link: '/helloworld.md'
 - label: Usage
   items:
     - label: 'Creating docs'
