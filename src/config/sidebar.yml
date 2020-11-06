@@ -5,7 +5,7 @@
 - label: 'Getting started'
   link: '/getting-started'
 - label: 'Hello World'
-  link: '/helloworld.md'
+  link: '/helloworld'
 - label: Usage
   items:
     - label: 'Creating docs'
